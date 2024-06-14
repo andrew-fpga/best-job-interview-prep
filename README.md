@@ -2,17 +2,6 @@
 
 🚀 Welcome to the **Best Job Interview Prep** repository! This repository is designed to provide you with comprehensive resources, tools, and tips to help you prepare for job interviews and land your dream job.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Resources](#resources)
-4. [Practice Questions](#practice-questions)
-5. [Mock Interviews](#mock-interviews)
-6. [Tips and Tricks](#tips-and-tricks)
-7. [Contributing](#contributing)
-8. [License](#license)
-
 ## Introduction
 
 Job interviews can be challenging, but with the right preparation, you can improve your chances of success. This repository is curated to provide you with the best practices, resources, and practical exercises to enhance your interview skills.
@@ -31,14 +20,18 @@ To get started with your interview preparation:
    ```
 
 
-
 ## Practice Questions
 
 - Tell me about yourself.
 - What are your strengths and weaknesses?
 - Describe a challenging project you worked on.
 
-## Resources
+## Tips and Tricks
+
+- **Research the company**: Understand their products, services, and culture.
+- **Practice coding**: Regularly solve problems on platforms like LeetCode and HackerRank.
+- **Prepare your resume**: Highlight relevant experience and skills.
+- **Ask questions**: Show your interest in the role and the company.
 
 ### Additional Resouces
 
@@ -52,19 +45,12 @@ To get started with your interview preparation:
 - [HackerRank](https://www.hackerrank.com/)
 - [InterviewBit](https://www.interviewbit.com/)
 
-## Mock Interviews
+### Mock Interviews
 
 Conduct mock interviews to simulate real interview scenarios. You can:
 
 - Pair up with a friend or a colleague.
 - Use online platforms like [Pramp](https://www.pramp.com/) or [Interviewing.io](https://interviewing.io/).
-
-## Tips and Tricks
-
-- **Research the company**: Understand their products, services, and culture.
-- **Practice coding**: Regularly solve problems on platforms like LeetCode and HackerRank.
-- **Prepare your resume**: Highlight relevant experience and skills.
-- **Ask questions**: Show your interest in the role and the company.
 
 ## Contributing
 
@@ -93,4 +79,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Happy Interviewing!
 
----
+Follow this Repo & Contribute!
